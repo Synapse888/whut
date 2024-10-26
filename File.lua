@@ -170,4 +170,4 @@ else
   plr.Character.Humanoid.PlatformStand = false
   game.Players.LocalPlayer.Character.Animate.Disabled = false
   tpwalking = false
- end
+end
